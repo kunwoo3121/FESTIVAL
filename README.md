@@ -20,7 +20,7 @@ ex) 6 3
 위와 같은 방법으로 모든 가능성을 체크하고 그 중 가장 작은 값을 찾아서 문제를 해결하였다.
 
 # 구현 코드
-'''
+```java
 import java.util.Scanner;
 
 public class Festival {
@@ -64,6 +64,6 @@ public class Festival {
 		sc.close();
 	}
 }
-'''
+```
 
 
